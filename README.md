@@ -23,7 +23,7 @@
 
 ### 📫 Connect with me:
 - 📧 Email: [raish0009@example.com](mailto:raish0009@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/raishmohammad009)
+- 💼 LinkedIn: [linkedin.com/in/raishmohammad009](www.linkedin.com/in/raishmohammad009)
 
 ---
 
